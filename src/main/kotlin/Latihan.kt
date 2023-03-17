@@ -1,13 +1,23 @@
 fun main() {
-    println("hello friends!")
-    println("ardian")
+////    pertemuan1
+//    println("hello friends!")
+//    println("ardian")
+//
+//    print("pekerjaan : ")
+//    val pekerjaan = readLine()
+//
+//    print("alamat : ")
+//    val alamat = readLine()
+//
+//    pertemuan2
+    var namaLengkap: String = "Ardian primaditya"
+    var alamat: String
+    alamat = "Yogyakarta"
+    var umur = 19
 
-    print("pekerjaan : ")
-    val pekerjaan = readLine()
+    println(namaLengkap)
+    println(alamat)
+    println(umur)
 
-    print("alamat : ")
-    val alamat = readLine()
+    }
 
-    println("pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
-
-}
